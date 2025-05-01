@@ -66,9 +66,11 @@
 
 <br/>
 
-###
-![](https://nirzak-streak-stats.vercel.app/?user=dm-sizov&theme=dark&hide_border=false)
-###
+<div align="center">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=dm-sizov&theme=dark&hide_border=false" alt="Streak Stats">
+    <br/>
+    <img src="https://raw.githubusercontent.com/dm-sizov/dm-sizov/ee25b8d82d2b02503073d4a20089ac589375491b/overview.svg#gh-dark-mode-only" alt="Overview" style="margin-right: 10px;">
+</div>
 
 <br/>
 
