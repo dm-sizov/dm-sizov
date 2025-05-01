@@ -60,7 +60,9 @@
 [![Computer Science](https://img.shields.io/badge/Computer%20Science-1E74C9)](#)
 [![Networks](https://img.shields.io/badge/Networks-1E74C9)](#)
 [![Software Engineering](https://img.shields.io/badge/Software%20Engineering-1E74C9)](#)
+<br/>
 [![Code Qualtiy & Security](https://img.shields.io/badge/Code%20Quality%20&%20Security-1E74C9)](#)
+[![System Design](https://img.shields.io/badge/System%20Design-1E74C9)](#)
 [![Infrastructure](https://img.shields.io/badge/Infrastructure-1E74C9)](#)
 [![CI/CD](https://img.shields.io/badge/CI/CD-1E74C9)](#)
 
